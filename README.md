@@ -1,6 +1,3 @@
-<!--suppress HtmlDeprecatedAttribute -->
-
-<img src="https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="2000"></img>
 
 
 # Hey, I'm Yasir! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"></h2>
