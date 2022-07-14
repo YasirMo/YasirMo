@@ -1,4 +1,4 @@
- <p align="center"><a href="https://admirable-toffee-33b38c.netlify.app/"> . Yasir Mo </a></p>
+ <p align="center">. Yasir Mo</p>
 
  <p align="center"> I'm Yasir, a Computer Science student specialising in Artificial Intelligence from London with Somali roots 🌱 </p>
 
