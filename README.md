@@ -1,17 +1,17 @@
+ <p align="center"><a href="https://admirable-toffee-33b38c.netlify.app/"> . Yasir Mo </a></p>
 
+ <p align="center"> I'm Yasir, a Computer Science student specialising in Artificial Intelligence from London with Somali roots 🌱 </p>
 
-# Hey, I'm Yasir! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"></h2>
-### Studying Computer Science at <a href="http://www.brunel.ac.uk">Brunel University London</a>
-### Technical Analyst at <a href="https://www.elanco.com/">Elanco</a>
+ <p align="center"> I'm currently exploring the intersection between tech and fashion where machine meet aesthetics ➰ </p>
 
+ <p align="center"> I craft thoughtful experiences, designs 🕊</p>
+  <div align="center">
+ 
+<img align="center" img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/ffffff/external-javascript-is-a-high-level-interpreted-programming-language-logo-bold-tal-revivo.png"/>
+<img align="center" img src="https://img.icons8.com/small/24/ffffff/html.png"/>
+<img align="center" img src="https://img.icons8.com/small/24/ffffff/css.png"/>
+<img align="center" img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/ffffff/external-react-a-javascript-library-for-building-user-interfaces-logo-bold-tal-revivo.png"/>
+<img align="center" img src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/24/ffffff/external-redux-an-open-source-javascript-library-for-managing-application-state-logo-light-tal-revivo.png"/>
+<img align="center" img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/ffffff/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-bold-tal-revivo.png"/>
 
-<p align="center">
-<a href="https://github.com/YasirMo?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=YasirMo&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@YasirMo's github-readme-stats"/></a>
-<a href="https://github.com/YasirMo?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=YasirMo&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@YasirMo's github-readme-streak-stats"/></a>
-</p>
-         
-
-<p align="center">
-<a href="https://github.com/pulls?q=is%3Apr+author%3AYasirMo+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YasirMo&theme=github_dark&utcOffset=4"  width="31%" alt="@yasirMo's productive-time"/></a>
-<a href="https://github.com/issues?q=is%3Aissue+author%3AYasirMo+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YasirMo&theme=github_dark&hide_border=true"  width="64%" alt="@YasirMo's profile-details"/></a>
-</p>
+</div>
