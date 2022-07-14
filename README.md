@@ -3,8 +3,6 @@
  <p align="center"> I'm Yasir, a Computer Science student specialising in Artificial Intelligence from London with Somali roots 🌱 </p>
 
  <p align="center"> I'm currently exploring the intersection between tech and fashion where machine meet aesthetics ➰ </p>
-
- <p align="center"> I craft thoughtful experiences, designs 🕊</p>
   <div align="center">
  
 <img align="center" img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/ffffff/external-javascript-is-a-high-level-interpreted-programming-language-logo-bold-tal-revivo.png"/>
